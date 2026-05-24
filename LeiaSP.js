@@ -35,7 +35,7 @@
         <div id="hubFullScreenOverlay" style="display: none;">
             <div class="scanlines"></div>
             <div id="premiumContainer">
-                <div class="glitchTitle" data-text="BATATA_HUB">BATATA_HUB_LIGADO</div>
+                <div class="glitchTitle" data-text="BATATA_HUB">BATATA_HUB</div>
                 
                 <div class="premiumStatsGrid">
                     <div class="premiumStatBox">
