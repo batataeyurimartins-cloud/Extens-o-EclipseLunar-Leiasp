@@ -52,7 +52,7 @@
                 
                 <!-- AVISO DE ALTA VELOCIDADE -->
                 <div class="speedWarning">
-                    ⚠️[AVISO]: EM ALTA VELOCIDADE O CONTADOR DE PONTOS PODE BUGAR!! [AVISO]⚠️
+                    ⚠️ [AVISO]: EM ALTA VELOCIDADE O CONTADOR DE PONTOS PODE BUGAR!! [AVISO] ⚠️   
                 </div>
             </div>
         </div>
